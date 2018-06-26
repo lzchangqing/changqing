@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-#shangonline
-=======
+
+#shangonlnei
 #changqing
->>>>>>> 8aceaea4ea37b5ac7ba7cf0aaed2f5b65fd0c222
-##changqing
 '''py
 def func():
 	print('this is a test')
